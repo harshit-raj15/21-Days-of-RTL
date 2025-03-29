@@ -15,3 +15,4 @@ I chose to take on this challenge as a fun and engaging way to enhance my RTL de
 ### Counting!
 
 - Day1 : MUX
+- Day2 : D Flip-flop
