@@ -6,7 +6,7 @@
 
 ### About the challenge
 
-This reposotory stores all the RTL code I practiced for the 21 days straight!
+This reposotory will store all the RTL code I will practice for next 21 days straight!
 
 ### Why I took on this challenge?
 
