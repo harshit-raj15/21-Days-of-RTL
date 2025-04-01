@@ -16,3 +16,5 @@ I chose to take on this challenge as a fun and engaging way to enhance my RTL de
 
 - Day1 : MUX
 - Day2 : D Flip-flop
+- Day3 : Edge Detector
+- Day4 : Simple ALU
