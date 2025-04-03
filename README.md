@@ -19,3 +19,4 @@ I chose to take on this challenge as a fun and engaging way to enhance my RTL de
 - Day3 : Edge Detector
 - Day4 : Simple ALU
 - Day5 : Odd Counter
+- Day6 : Shift Register
