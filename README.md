@@ -20,3 +20,4 @@ I chose to take on this challenge as a fun and engaging way to enhance my RTL de
 - Day4 : Simple ALU
 - Day5 : Odd Counter
 - Day6 : Shift Register
+- Day7 : LFSR (Linear Feedback Shift Register)
