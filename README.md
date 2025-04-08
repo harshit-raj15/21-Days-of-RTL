@@ -24,3 +24,4 @@ I chose to take on this challenge as a fun and engaging way to enhance my RTL de
 - Day8 : Binary to One-hot
 - Day9 : Binary to Grey
 - Day10 : Self Reloading Counter
+- Day11 : Parallel to Serial
