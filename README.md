@@ -26,3 +26,4 @@ I chose to take on this challenge as a fun and engaging way to enhance my RTL de
 - Day10 : Self Reloading Counter
 - Day11 : Parallel to Serial
 - Day12 : Sequence Detector
+- Day13 : Muxes
