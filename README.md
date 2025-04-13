@@ -27,3 +27,4 @@ I chose to take on this challenge as a fun and engaging way to enhance my RTL de
 - Day11 : Parallel to Serial
 - Day12 : Sequence Detector
 - Day13 : Muxes
+- Day14 : Fixed Priority Arbitrer
