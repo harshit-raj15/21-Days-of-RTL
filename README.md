@@ -31,3 +31,4 @@ I chose to take on this challenge as a fun and engaging way to enhance my RTL de
 - Day15 : Rround Robin Arbitrer
 - Day16 : APB Master
 - Day17 : Simple Memory Interface
+- Day18 : APB Slave
