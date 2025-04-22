@@ -34,3 +34,4 @@ I chose to take on this challenge as a fun and engaging way to enhance my RTL de
 - Day18 : APB Slave
 - Day19 : Synchronous FIFO
 - Day20 : APB System
+- Day21 : Dual-Priority Encoder
